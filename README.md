@@ -34,3 +34,10 @@ I also noted the following:
 
 Ideas to improve this project include completing a more robust data scrape using a Python script together with Beautiful Soup to parse the html. Then using this to create a well-structured data model complete with date table, allowing for time series analysis.
 In a real business scenario, it would be interesting to try and determine the root cause for some of these fluctuations by accessing some additional data with a higher level of detail. For example, trying to understand what factors give an appointment a high chance of being lost (cancelled/not attended).
+
+**Power BI Report Page**
+![image](https://github.com/user-attachments/assets/a2bb2ee5-bda0-4437-bac7-d1953465e779)
+
+**Excel Report Page**
+![image](https://github.com/user-attachments/assets/c9474291-c5b4-45d8-9fdd-62a1a207d66b)
+
